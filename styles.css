@@ -42,7 +42,7 @@ footer {
 }
 
 .BUTTON_SAD {
-  margin-left: 672px;
+  text-align: center;
   background: #EC8888;
   background-image: -webkit-linear-gradient(top, #EC8888, #1E62D0);
   background-image: -moz-linear-gradient(top, #EC8888, #1E62D0);
